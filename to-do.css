@@ -1,0 +1,36 @@
+body{
+    background-color: honeydew;
+}
+h1{
+    width: 500px;
+    margin: 30px auto;
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+.container{
+    border: 3px solid darkgray;
+    margin-top: 10px;
+    padding-left: 20px;
+    height: 500px;
+    width: 400px;
+    margin: 30px auto;
+}
+
+ .form{
+    border: 1px solid gray;
+    padding: 20px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+ /* .done{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border: thin solid black;
+    text-align: center;
+    flex-direction: row;
+} */
+
